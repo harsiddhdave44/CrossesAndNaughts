@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Crosses and Naughts
 
 This is a simple Tic Tac Toe game made while [studying ReactJS](https://reactjs.org/tutorial/tutorial.html)
 
